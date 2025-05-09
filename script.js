@@ -1,6 +1,6 @@
 function checkPassword() {
   const password = document.getElementById("pw").value;
-  const correct = "nyankomin";
+  const correct = "userrank_15000";
 
   if (password === correct) {
     // パスワードが正解なら secret.html に移動
